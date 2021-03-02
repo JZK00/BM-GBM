@@ -1,0 +1,7 @@
+ID,Image,Mask,Y,MRI
+1,D:\BM-GBM\BM\example_T1.nii,D:\BM-GBM\BM\Label_T1.nii.gz,BM,T1
+2,D:\BM-GBM\BM\example_T2.nii,D:\BM-GBM\BM\Label_T2.nii.gz,BM,T2
+3,D:\BM-GBM\BM\example_T1C.nii,D:\BM-GBM\BM\Label_T1C.nii.gz,BM,T1C
+4,D:\BM-GBM\GBM\example_T1.nii,D:\BM-GBM\GBM\label_T1.nii.gz,GBM,T1
+5,D:\BM-GBM\GBM\example_T2.nii,D:\BM-GBM\GBM\label_T2.nii.gz,GBM,T2
+6,D:\BM-GBM\GBM\example_T1C.nii,D:\BM-GBM\GBM\label_T1C.nii.gz,GBM,T1C
